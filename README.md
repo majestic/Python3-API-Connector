@@ -1,7 +1,7 @@
 Python3-API-Connector (for Python 3.7.4)
 ====================
 
-Majestic® surveys and maps the Internet and has created the largest commercial Link Intelligence database in the world. The Majestic® search engine is mainly used to instantly provide Flow Metrics® which evaluate the quality of any page on the Internet on a scale from 0 to 100. The connector libraries are supplied to assist in using the Majestic® API and are available in a number of programming languages.
+Majestic® surveys and maps the Internet and has created the largest commercial Link Intelligence database in the world. The Majestic® search engine is mainly used to instantly provide Flow Metric® scores which evaluate the quality of any page on the Internet on a scale from 0 to 100. The connector libraries are supplied to assist in using the Majestic® API and are available in a number of programming languages.
 
 This is the Python 3 connector.  For Python 2, go [here](https://github.com/majestic/Python-API-Connector).
  
